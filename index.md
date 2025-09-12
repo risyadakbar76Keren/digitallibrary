@@ -9,7 +9,8 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [1925-Tan-Malaka_-Menuju-Republik-Indonesia](ebook/1925-Tan-Malaka_-Menuju-Republik-Indonesia.pdf) - Tan Malaka (1925)
 3. [Madilog_materialisme_dialektika_logika](ebook/Madilog_materialisme_dialektika_logika.pdf) - Tan Malaka (1951)
 4. [Rumah Kaca](ebook/Rumah Kaca.pdf) - Pramoedya Ananta Toer (1988)
-5. Contoh buku lain
+5. [arus-balik-_-pramoedya-ananta-toer](ebook/arus-balik-_-pramoedya-ananta-toer.pdf) - Pramoedya Ananta Toer (1995)
+6. Contoh buku lain
 
 ---
 
