@@ -11,7 +11,7 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [Rumah Kaca](ebook/Rumah Kaca.pdf) - Pramoedya Ananta Toer (1988)
 5. [arus-balik-_-pramoedya-ananta-toer](ebook/arus-balik-_-pramoedya-ananta-toer.pdf) - Pramoedya Ananta Toer (1995)
 6. [soe-hok-gie-catatan-seorang-demonstran_11](ebook/soe-hok-gie-catatan-seorang-demonstran_11.pdf) - Soe Hok Gie (1983)
-7. Contoh buku lain
+7. [sutan-sjahrir-perjoeangan-kita-libre](ebook/sutan-sjahrir-perjoeangan-kita-libre.pdf) - Sutan Sjahrir (1945)
 
 ---
 
