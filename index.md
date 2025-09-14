@@ -15,6 +15,7 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [tan-malaka-gerpolek](ebook/tan-malaka-gerpolek.pdf) - Tan Malaka (1948)
 9. [tan-malaka-semangat-muda](ebook/tan-malaka-semangat-muda.pdf) - Tan Malaka (1926)
 10. [Ringkasan Materi Kuliah Tamu](ebook/Ringkasan Materi Kuliah Tamu.pdf) - Risyad Akbar Fadillah (13040123140100)
+11. [DalihPembunuhanMassal](ebook/DalihPembunuhanMassal.pdf) - John Roosa (2008)
 
 ---
 
