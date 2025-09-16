@@ -17,6 +17,7 @@ Berikut ini adalah koleksi yang dimiliki:
 10. [Ringkasan Materi Kuliah Tamu](ebook/Ringkasan Materi Kuliah Tamu.pdf) - Risyad Akbar Fadillah (13040123140100)
 11. [DalihPembunuhanMassal](ebook/DalihPembunuhanMassal.pdf) - John Roosa (2008)
 
----
 <a href="webti/halaman1.html">Halaman 1</a>
+---
+
 *Powered by GitHub Pages*
